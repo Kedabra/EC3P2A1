@@ -1,0 +1,53 @@
+
+body{
+	text-align: center;
+	margin: 0px auto;
+
+}
+.cuerpo{
+	display: block;
+	padding: 0px auto;
+	width: 70%;
+	margin: 0px auto;
+	margin-top: 20px;
+	text-align: center;
+	height: 100px;
+}
+a:link
+{
+text-decoration:none;
+color: #E85400;
+}
+
+header{
+	text-align: center;
+	margin:0px auto;
+	margin-top: 30px;
+}
+
+div{
+	background-color:#E7E7E7;
+	text-align: center;
+	margin-left: 0px auto;
+	margin-top: 10px;
+}
+img{
+	border-radius:100%;
+
+}
+.container{
+	margin: 0px auto;
+	text-align: center;
+}
+h3{
+	width: 100%;
+	margin-bottom: 1.5em;
+}
+span{
+	float: left;
+	display:inline;
+	color:#E85400;
+}
+.col-md-4, .col-md-8{
+	border:1px solid black;
+}
